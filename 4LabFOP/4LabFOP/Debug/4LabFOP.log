@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\4labfop\4labfop\source.cpp(96): warning C4715: NOD: значение возвращается не при всех путях выполнения
+  4LabFOP.vcxproj -> C:\Users\User\source\repos\4LabFOP\Debug\4LabFOP.exe
